@@ -1,30 +1,62 @@
-# 👋 Olá, eu sou o Breno Reis  
-
-💻 Apaixonado por tecnologia e programação  
-
+<!-- Banner animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Breno+Reis!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+e+criando+projetos+🚀" alt="Typing SVG" />
+</h1>
 
 ---
 
+## 🌟 Sobre mim  
+💻 Apaixonado por tecnologia e programação  
+📚 Estudante do curso técnico no SENAI  
+🎯 Focado em evoluir minhas habilidades todos os dias  
+⚡ Gosto de criar soluções práticas e eficientes  
 
+---
+
+## 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bre01cc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## 🛠️ Tecnologias e Ferramentas  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,git,github" />
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bre01cc&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bre01cc&layout=compact&theme=tokyonight)
+## 📊 Minhas Estatísticas  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bre01cc&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bre01cc&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+</p>
 
 ---
+
+## 📈 Contribuições e Atividade  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🗺️ Gráfico 3D de Contribuições  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" width="100%"/>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque  
+- [📌 Projeto 1](https://github.com/Bre01cc/nome-do-projeto) – Breve descrição  
+- [📌 Projeto 2](https://github.com/Bre01cc/nome-do-projeto) – Breve descrição  
+
+---
+
+> ✨ "O conhecimento é construído com prática e curiosidade."
+
 
 > 
 
