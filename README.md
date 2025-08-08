@@ -26,12 +26,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-- [📌 Projeto 1](https://github.com/Bre01cc/nome-do-projeto) – Breve descrição
-- [📌 Projeto 2](https://github.com/Bre01cc/nome-do-projeto) – Breve descrição
-
----
-
 > 
 
 <!--
