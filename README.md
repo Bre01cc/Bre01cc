@@ -31,11 +31,9 @@
 ---
 
 ## 📈 Contribuições e Atividade  
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bre01cc&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bre01cc&layout=compact&theme=tokyonight)
-
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 > 
 
