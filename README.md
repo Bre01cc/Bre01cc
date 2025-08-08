@@ -32,7 +32,7 @@
 
 ## Contribuições e Atividade  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=ffffff&color=007acc&line=007acc&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 > 
