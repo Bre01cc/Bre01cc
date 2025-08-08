@@ -1,13 +1,12 @@
 <!-- Banner animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Breno+Oliveira!;Desenvolvedor+em+formação%C3%A7%C3%A3o;Sempre+aprendendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Breno+Oliveira!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Sempre+aprendendo" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🌟 Sobre mim  
-Em algum momento coloco algo interessante
----
+- Em algum momento coloco algo interessante
 
 ## 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -32,9 +31,9 @@ Em algum momento coloco algo interessante
 ---
 
 ## 📈 Contribuições e Atividade  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bre01cc&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bre01cc&layout=compact&theme=tokyonight)
+
 
 
 
