@@ -15,14 +15,14 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## Tecnologias e Ferramentas  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,java,nodejs,git,github" />
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas  
+## Estatísticas  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bre01cc&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bre01cc&layout=compact&theme=tokyonight" alt="langs" height="160"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 Contribuições e Atividade  
+## Contribuições e Atividade  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
