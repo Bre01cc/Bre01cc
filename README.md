@@ -1,16 +1,12 @@
 <!-- Banner animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Breno+Reis!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+e+criando+projetos+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Breno+Oliveira!;Desenvolvedor+em+formação%C3%A7%C3%A3o;Sempre+aprendendo" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🌟 Sobre mim  
-💻 Apaixonado por tecnologia e programação  
-📚 Estudante do curso técnico no SENAI  
-🎯 Focado em evoluir minhas habilidades todos os dias  
-⚡ Gosto de criar soluções práticas e eficientes  
-
+Em algum momento coloco algo interessante
 ---
 
 ## 🌐 Onde me encontrar  
@@ -40,22 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
-## 🗺️ Gráfico 3D de Contribuições  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" width="100%"/>
-</p>
-
----
-
-## 🚀 Projetos em Destaque  
-- [📌 Projeto 1](https://github.com/Bre01cc/nome-do-projeto) – Breve descrição  
-- [📌 Projeto 2](https://github.com/Bre01cc/nome-do-projeto) – Breve descrição  
-
----
-
-> ✨ "O conhecimento é construído com prática e curiosidade."
 
 
 > 
