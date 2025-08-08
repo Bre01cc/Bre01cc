@@ -30,10 +30,13 @@
 
 ---
 
-## 📈 Contribuições
+
+## 📈 Contribuições e Atividade
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bre01cc&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+
 
 <!--
 **Bre01cc/Bre01cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
