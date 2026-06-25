@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Sobre mim  
-- Em algum momento coloco algo interessante
+- Desenvolvedor de Software formado como Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho experiência no desenvolvimento de APIs REST, banco de dados MySQL, aplicações Java e JavaScript, além de conhecimentos em HTML, CSS, Kotlin, Azure e Git/GitHub. Neste perfil compartilho projetos desenvolvidos durante minha formação e estudos pessoais.
 
 ## 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Breno-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-oliveira-assis-reis-203010351/)
